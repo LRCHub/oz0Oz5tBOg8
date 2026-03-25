@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "base_track": "MONTERO (Call Me By Your Name)",
+  "base_artist": "Lil Nas X",
+  "createdAt": "2026-03-25T15:03:06.168636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/01_MONTERO_(Call_Me_By_Your_Name)_Various.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/02_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/03_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/04_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/05_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me by Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/06_MONTERO_(Call_Me_by_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "BRAVO Hits",
+      "has_synced": true,
+      "path": "select/07_Montero_(Call_Me_By_Your_Name)_BRAVO_Hits.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Yes, Yes & Jaxomy",
+      "has_synced": true,
+      "path": "select/08_MONTERO_(Call_Me_By_Your_Name)_Yes,_Yes_&_Jaxomy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Kidz Bop",
+      "has_synced": true,
+      "path": "select/09_Montero_(Call_Me_By_Your_Name)_Kidz_Bop.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/10_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/11_Montero_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": false,
+      "path": "select/pl_01_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "MONTERO (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/localdb_01_MONTERO_(Call_Me_By_Your_Name)_Lil_Nas_X.lrc",
+      "repo_name": "NIlz3g3DgCU"
+    }
+  ]
+}
